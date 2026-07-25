@@ -2,4 +2,5 @@
 .vscode/
 404.html
 *.zip
-
+/*.png
+/*.svg
